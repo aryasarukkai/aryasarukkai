@@ -16,7 +16,7 @@
 **Here are my GitHub Stats**
 
 
-![Arya's github stats](https://github-readme-stats.vercel.app/api?username=aryasarukkai&count_private=true&show_icons=true&theme=nightowl)
+![Arya's github stats](https://github-readme-stats.vercel.app/api?username=aryasarukkai&count_private=true&show_icons=true&theme=gradient)
 
 ![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=aryasarukkai)
 
