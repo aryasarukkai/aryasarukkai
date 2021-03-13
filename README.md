@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Discord.JS**
 
+<p><a href="https://github.com/aryasarukkai/aryasarukkai/raw/main/Aryas%20Theme.theme.css">Here's a theme I made for BetterDiscord based off of ClearVision 6</a></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/aryamusicyt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="aryamusicyt" height="30" width="40" /></a>
