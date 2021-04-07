@@ -2,6 +2,10 @@
 
 ![Hi, I'm Arya](https://github.com/aryasarukkai/aryasarukkai/blob/main/github-banner.png?raw=true)
 
+
+<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
+
+
 <h3 align="center">A middle school student</h3>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=aryasarukkai.aryasarukkai)
