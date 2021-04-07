@@ -1,6 +1,10 @@
-<h1 align="center">Hi 👋, I'm Arya</h1>
+<h1 align="center"></h1>
+
+![Hi, I'm Arya](https://github.com/aryasarukkai/aryasarukkai/blob/main/github-banner.png?raw=true)
+
 <h3 align="center">A middle school student</h3>
-![(https://visitor-badge.glitch.me/badge?page_id=aryasarukkai.aryasarukkai)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=aryasarukkai.aryasarukkai)
 
 - 🔭 I’m currently working on **OctoBot**
 
