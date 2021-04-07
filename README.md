@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arya</h1>
 <h3 align="center">A middle school student</h3>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=aryasarukkai.aryasarukkai)
 
 - 🔭 I’m currently working on **OctoBot**
 
@@ -22,7 +23,7 @@
 
 ![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=aryasarukkai&theme=nightowl)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=aryasarukkai.aryasarukkai)
+
 
 <!--
 **aryasarukkai/aryasarukkai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
