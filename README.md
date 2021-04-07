@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arya</h1>
 <h3 align="center">A middle school student</h3>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=aryasarukkai.aryasarukkai)
+![(https://visitor-badge.glitch.me/badge?page_id=aryasarukkai.aryasarukkai)
 
 - 🔭 I’m currently working on **OctoBot**
 
