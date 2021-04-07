@@ -23,6 +23,14 @@
 
 ![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=aryasarukkai&theme=nightowl)
 
+**Here is some other stuff**
+
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=aidroidarya&cover_image=true&theme=default)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=aryasarukkai)
+
+
+
 
 
 <!--
