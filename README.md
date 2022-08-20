@@ -8,7 +8,6 @@
 
 <h3 align="center">A middle school student</h3>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=aryasarukkai.aryasarukkai)
 
 - 🔭 I’m currently working on **OctoBot**
 
@@ -33,7 +32,6 @@
 
 **Here is some other stuff**
 
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=aidroidarya&cover_image=true&theme=default)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=aryasarukkai)
 
