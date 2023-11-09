@@ -1,9 +1,8 @@
 <h1 align="center"></h1>
 
-![Hi, I'm Arya](https://github.com/aryasarukkai/aryasarukkai/blob/main/github-banner.png?raw=true)
+![Hi, I'm Arya]([https://github.com/aryasarukkai/aryasarukkai/blob/main/github-banner.png?raw=true](https://cdn.discordapp.com/banners/478050822979059722/1b74f008e7a1f6d240822cf48b75cc8d.webp))
 
 
-<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
 
 <h3 align="center">A middle school student</h3>
@@ -13,11 +12,11 @@
 
 - 🌱 I’m currently learning **Discord.JS**
 
-<p><a href="https://github.com/aryasarukkai/aryasarukkai/raw/main/Aryas%20Theme.theme.css">Here's a theme I made for BetterDiscord based off of ClearVision 6</a></p>
+<p><a href="https://aryasarukkai.xyz">Here's my website</a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/aryamusicyt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="aryamusicyt" height="30" width="40" /></a>
+<a href="https://lookup.guru/478050822979059722" target="blank">Discord: @imarya</a> |  <a href="https://imaryaaa.t.me/" target="blank">Telegram: @imaryaaa</a> |  <a href="https://imarya.xyz" target="blank">imarya.xyz</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,7 +27,7 @@
 
 ![Arya's github stats](https://github-readme-stats.vercel.app/api?username=aryasarukkai&count_private=true&show_icons=true&theme=nightowl)
 
-![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=aryasarukkai&theme=nightowl)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryasarukkai&theme=nightowl)
 
 **Here is some other stuff**
 
