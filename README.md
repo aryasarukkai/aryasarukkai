@@ -1,8 +1,6 @@
-<h1 align="center"></h1>
+<h1 align="center">Hi, I'm Arya! 👋 </h1>
 
-![Hi, I'm Arya]([https://cdn.discordapp.com/banners/478050822979059722/1b74f008e7a1f6d240822cf48b75cc8d.webp](https://cdn.discordapp.com/banners/478050822979059722/1b74f008e7a1f6d240822cf48b75cc8d.webp)])
-
-<img src="https://cdn.discordapp.com/banners/478050822979059722/1b74f008e7a1f6d240822cf48b75cc8d.webp?size=4096" width="340" height="119"/>
+<img src="https://cdn.discordapp.com/banners/478050822979059722/1b74f008e7a1f6d240822cf48b75cc8d.webp?size=4096" width="340" height="119" align="center"/>
 
 
 <h3 align="center">A middle school student</h3>
