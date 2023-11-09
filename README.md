@@ -2,7 +2,7 @@
 
 ![Hi, I'm Arya]([https://cdn.discordapp.com/banners/478050822979059722/1b74f008e7a1f6d240822cf48b75cc8d.webp](https://cdn.discordapp.com/banners/478050822979059722/1b74f008e7a1f6d240822cf48b75cc8d.webp)])
 
-<img src="https://cdn.discordapp.com/banners/478050822979059722/1b74f008e7a1f6d240822cf48b75cc8d.webp?size=4096" width="1360" height="479"/>
+<img src="https://cdn.discordapp.com/banners/478050822979059722/1b74f008e7a1f6d240822cf48b75cc8d.webp?size=4096" width="680" height="239.5"/>
 
 
 <h3 align="center">A middle school student</h3>
