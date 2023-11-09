@@ -1,6 +1,6 @@
 <h1 align="center"></h1>
 
-![Hi, I'm Arya]([https://github.com/aryasarukkai/aryasarukkai/blob/main/github-banner.png?raw=true](https://cdn.discordapp.com/banners/478050822979059722/1b74f008e7a1f6d240822cf48b75cc8d.webp))
+![Hi, I'm Arya]([[https://github.com/aryasarukkai/aryasarukkai/blob/main/github-banner.png?raw=true](https://cdn.discordapp.com/banners/478050822979059722/1b74f008e7a1f6d240822cf48b75cc8d.webp)](https://cdn.discordapp.com/banners/478050822979059722/1b74f008e7a1f6d240822cf48b75cc8d.webp))
 
 
 
