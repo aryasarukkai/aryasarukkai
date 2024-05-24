@@ -3,18 +3,18 @@
 <img src="https://cdn.discordapp.com/banners/478050822979059722/1b74f008e7a1f6d240822cf48b75cc8d.webp?size=4096" width="340" height="119" align="center"/>
 
 
-<h3 align="center">A middle school student</h3>
+<h3 align="center">A student</h3>
 
 
-- 🔭 I’m currently working on **OctoBot**
+- 🔭 I’m currently working on **SpeedGram** 
 
-- 🌱 I’m currently learning **Discord.JS**
+- 🌱 I’m currently learning **ReactJS + Tailwind**
 
 <p><a href="https://aryasarukkai.xyz">Here's my website</a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://lookup.guru/478050822979059722" target="blank">Discord: @imarya</a> |  <a href="https://imaryaaa.t.me/" target="blank">Telegram: @imaryaaa</a> |  <a href="https://imarya.xyz" target="blank">imarya.xyz</a>
+<a href="https://lookup.guru/478050822979059722" target="blank">Discord: @imarya</a> |  <a href="https://instagram.com/_im.aryaa_" target="blank">Instagram: @_im.aryaa_</a> |  <a href="https://imarya.xyz" target="blank">imarya.xyz</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,10 +27,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryasarukkai&theme=nightowl)
 
-**Here is some other stuff**
-
-
-![trophy](https://github-profile-trophy.vercel.app/?username=aryasarukkai)
 
 
 
